@@ -59,4 +59,4 @@ Projet réalisé en **groupe de 4 étudiants** dans le cadre du BUT Informatique
 
 ## 🔗 Dépôt GitHub
 Projet hébergé sur GitHub :  
-https://github.com/im31200/ProjetAda_S1.02_2024
+https://github.com/ImamMagadiyev/ProjetAda_S1.02_2024
